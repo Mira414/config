@@ -5,4 +5,4 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs"
   contactDetails:
     name: "xxx - Developer"
-    email: "17f7fe2f71dee4b2026623851b316f0f0e57d02ea9ffb49206f48f80a19214ee4cb5a3f7a4e99a9fae9f541e3b83bbe6"
+    email: "{cipher}17f7fe2f71dee4b2026623851b316f0f0e57d02ea9ffb49206f48f80a19214ee4cb5a3f7a4e99a9fae9f541e3b83bbe6"
