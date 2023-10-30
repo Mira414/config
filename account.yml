@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to eazy accounts related local APIs"
+  message: "Welcome to eazy accounts related local git APIs"
   contactDetails:
     name: "xxx - Developer"
     email: "{cipher}17f7fe2f71dee4b2026623851b316f0f0e57d02ea9ffb49206f48f80a19214ee4cb5a3f7a4e99a9fae9f541e3b83bbe6"
